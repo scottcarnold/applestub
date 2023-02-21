@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.xandercat</groupId>
   <artifactId>applestub</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>AppleStub</name>
   <description>Stub classes for compatibility with Apple/Mac menu system in Java.</description>
   	<properties>
